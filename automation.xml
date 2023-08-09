@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="AutomationSuite">
+	<suite-files>
+		<suite-file path="courses.xml"></suite-file>
+		<suite-file path="events.xml"></suite-file>
+		<suite-file path="contactus.xml"></suite-file>
+		<suite-file path="login.xml"></suite-file>
+		<suite-file path="dashboard.xml"></suite-file>
+		<suite-file path="admincourses.xml"></suite-file>
+		<suite-file path="testimony.xml"></suite-file>
+		<suite-file path="newstaff.xml"></suite-file>
+		<suite-file path="adminusers.xml"></suite-file>
+	</suite-files>
+</suite>
